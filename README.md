@@ -83,26 +83,29 @@ Curiosidade, vontade de aprender e crescer profissionalmente são meus motores p
     <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
     <!-- <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>   -->
     <!-- <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>   -->
-</div> 
+</div>
 
 <br/>
 
 ## Conecte-se
 
 <div align="center">
-    <a href="https://linkedin.com/in/jaquelinesilvabroccolo" target="blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+    <a href="https://jaquelinesbroccolo.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Site-EA4335?style=for-the-badge" alt="portfolio" />
+    </a> 
+    <a href="https://linkedin.com/in/jaqueline-silva-broccolo" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5?style=for-the-badge&logo=linkedin" alt="linkedin" />
     </a>  
-    <a href="https://beacons.ai/jlinebrsilva" target="blank">
-    <img src=https://img.shields.io/badge/beacons-%0F1013.svg?&style=for-the-badge&logo=beacons&logoColor=white alt=beacons />
+    <a href="https://beacons.ai/jlinebrsilva" target="_blank">
+        <img src="https://img.shields.io/badge/beacons-0F1013?style=for-the-badge&logo=beacons" alt="beacons" />
     </a>  
 </div>
 
 <br/>  
 
-## Suporte
+## Suporte-me
 
-<div style="display: flex; justify-content: center; gap: 1rem; align-items: center">
+<div align="center">
     <a href="https://ko-fi.com/D1D81ADYZG" target="_blank">
         <img
             src="https://ko-fi.com/img/githubbutton_sm.svg" 
