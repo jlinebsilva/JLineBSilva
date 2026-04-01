@@ -106,7 +106,7 @@ Curiosidade, vontade de aprender e crescer profissionalmente são meus motores p
     <a href="https://linkedin.com/in/jaqueline-silva-broccolo" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%231E77B5?style=for-the-badge&logo=linkedin" alt="linkedin" />
     </a>  
-    <a href="https://beacons.ai/jlinebrsilva" target="_blank">
+    <a href="https://beacons.ai/jlinebsilva" target="_blank">
         <img src="https://img.shields.io/badge/beacons-0F1013?style=for-the-badge&logo=beacons" alt="beacons" />
     </a>  
 </div>
