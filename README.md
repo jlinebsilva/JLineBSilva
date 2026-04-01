@@ -11,12 +11,12 @@
 <br/>  
 
 <h3 align="center">
-  👩‍💻 Dev Front-end Web & Mobile | FullStack Node.js • Java
+  👩‍💻 Dev Front-end Web & Mobile | FullStack Java • Node.js
 </h3> 
 
 Meu nome é Jaqueline, tenho experiência com desenvolvimento <strong>Front-end</strong> há +4 anos, tanto Web quanto Mobile. 
 
-Curiosidade, vontade de aprender e crescer profissionalmente são meus motores para sair da zona de conforto. Portanto, também venho estudando o desenvolvimento <strong>Back-end</strong>, e me tornar <strong>FullStack</strong> aos poucos.
+Curiosidade, vontade de aprender e crescer profissionalmente são meus motores para sair da zona de conforto. Portanto, também venho estudando o desenvolvimento <strong>Back-end</strong>, e me tornar <strong>FullStack</strong> gradualmente.
 
 <br/>  
 
