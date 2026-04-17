@@ -90,9 +90,9 @@ Curiosidade, vontade de aprender e crescer profissionalmente são meus motores p
 ## Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLineBRSilva&hide_border=true&layout=compact&theme=react" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLineBSilva&hide_border=true&layout=compact&theme=react" />  
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=JLineBRSilva&show_icons=true&count_private=true&hide_border=true&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JLineBSilva&show_icons=true&count_private=true&hide_border=true&theme=react" />
 </div>
 
 <br/>
